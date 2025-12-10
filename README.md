@@ -2,14 +2,10 @@
 
 A simple, modern, and fun Tic-Tac-Toe game built using **Python (Tkinter)**.
 
----
-
 ## 🎯 Objective
 
 Try to get **three X’s or O’s in a row** — horizontally, vertically, or diagonally — before your opponent does.
 You can play against another player or challenge the computer!
-
----
 
 ## 🚀 Features
 
@@ -32,9 +28,6 @@ You can play against another player or challenge the computer!
 - Mode & Difficulty instantly update
 
 - Window icon support (logo.png)
-<img width="1919" height="977" alt="Tic-tac-toe-game" src="https://github.com/user-attachments/assets/26a41683-a6f5-44d7-8cee-16e494693615" />
-
----
 
 ## 🛠️ Technologies Used
 
@@ -46,6 +39,7 @@ You can play against another player or challenge the computer!
 
 - **Minimax Algorithm**
 
-
 - **Object-Oriented Programming**
 
+
+<img width="1919" height="977" alt="Tic-tac-toe-game" src="https://github.com/user-attachments/assets/26a41683-a6f5-44d7-8cee-16e494693615" />
