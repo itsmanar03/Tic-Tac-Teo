@@ -1,28 +1,51 @@
-# Tic-Tac-Toe Game 🎮
+# Tic-Tac-Toe Game ❌⭕🎮
 
-A simple and modern Tic-Tac-Toe game built with **Python Tkinter**, featuring:
-- Human vs Human mode
-- Human vs Computer mode
-- Easy, Medium, Hard difficulty levels (Minimax algorithm)
-- Scoreboard for wins and draws
-- Clean UI with custom colors and icons
+A simple, modern, and fun Tic-Tac-Toe game built using **Python (Tkinter)**.
+
+---
+
+## 🎯 Objective
+
+Try to get **three X’s or O’s in a row** — horizontally, vertically, or diagonally — before your opponent does.
+You can play against another player or challenge the computer!
 
 ---
 
 ## 🚀 Features
-- Smart AI using Minimax (Hard mode)
-- Randomized behavior in Easy/Medium mode
-- Highlight winning line
-- Beautiful & responsive UI
-- Score resets when changing mode or difficulty
+
+- Human vs **Human**
+
+- Human vs **Computer (AI)**
+
+- 3 Difficulty Levels: **Easy – Medium – Hard (Minimax)**
+
+- Smart AI with unbeatable mode
+
+- Clean dark UI
+
+- Highlighted winning line
+
+- Live **Scoreboard** (X Wins – O Wins – Draws)
+
+- Automatic board reset
+
+- Mode & Difficulty instantly update
+
+- Window icon support (logo.png)
+<img width="1919" height="977" alt="Tic-tac-toe-game" src="https://github.com/user-attachments/assets/26a41683-a6f5-44d7-8cee-16e494693615" />
 
 ---
 
-## 🛠️ Technologies
-- Python 3
-- Tkinter
-- PIL / Pillow
+## 🛠️ Technologies Used
 
----
+- **Python 3**
 
-## ▶️ How to Run
+- **Tkinter (GUI)**
+
+- **Pillow (for icon)**
+
+- **Minimax Algorithm**
+
+
+- **Object-Oriented Programming**
+
