@@ -10,17 +10,20 @@ score_win = 1
 score_lose = -1
 score_draw = 0
 
-color_background = "#382b2b"
-color_frame = "#1e1515"
-color_x = "#a85d38"
-color_o = "#70a498"
-color_button_bg = "#5c4747"
-color_highlight = "#ffd700"
-color_footer_text = "#95a5a6"
+color_background = "#0b1d2a"
+color_frame = "#102a43"
+color_button_bg = "#163a5f"
 
-color_score_label_x = color_x
-color_score_label_o = color_o
-color_score_label_draw = "#7f8c8d"
+color_x = "#d4af37"
+color_o = "#4da3ff"
+
+color_highlight = "#ffd700"
+
+color_footer_text = "#b0c4de"
+color_score_label_x = "#ffd700"
+color_score_label_o = "#4da3ff"
+color_score_label_draw = "#9fb3c8"
+
 
 game_font = "Comic Sans MS"
 status_font = "Comic Sans MS"
