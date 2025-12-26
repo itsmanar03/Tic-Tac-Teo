@@ -45,4 +45,5 @@ You can play against another player or challenge the computer!
 - **Object-Oriented Programming**
 
 
-<img width="1919" height="977" alt="Tic-tac-toe-game" src="https://github.com/user-attachments/assets/26a41683-a6f5-44d7-8cee-16e494693615" />
+<img width="1919" height="1011" alt="Main" src="https://github.com/user-attachments/assets/8ca7f353-6980-456a-b02d-054df049df4e" />
+
